@@ -1,6 +1,7 @@
 What is your understanding of DevOps and Cloud Engineering?
+Devops is process to make to things faster with continous itiration
 
 
 Why you are starting learning DevOps & Cloud?
 Where do you want to reach?
-How you will stay consistent every single day?
+How you will stay consistent every single 
