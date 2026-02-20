@@ -1,7 +1,8 @@
-What is your understanding of DevOps and Cloud Engineering?
-Devops is process to make to things faster with continous itiration
-
+What is your understanding of DevOps and Cloud Engineering? Ans: devops is process of improving the application delivery (fast) by ensuring that there i an continous prope automation and testing called devops.where as cloud Engineering is  focuses on  cloud infrastructre manages servers, storage and networking. works mainly with cloud flatforms.
 
 Why you are starting learning DevOps & Cloud?
+ I would like trasitioin in to devops as my carrer path from tester along with good salalry package
 Where do you want to reach?
-How you will stay consistent every single 
+My aim is to reach principle engineer position in next 3 years.
+How you will stay consistent every single day?
+I will be consistent every single day by doing my daily tasks providd bt TSW 90 days devops journey.
